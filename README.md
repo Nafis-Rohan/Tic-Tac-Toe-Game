@@ -29,5 +29,7 @@ This project is a simple implementation of the classic Tic-Tac-Toe game in C++. 
 
 ## Example Gameplay
 
-
+![Screenshot (1031)](https://github.com/user-attachments/assets/30221627-a72e-4ac5-be84-d7b9cb63aaf8)
+![Screenshot (1032)](https://github.com/user-attachments/assets/3278dcd8-5031-4a61-bb7f-0a67072d0a7f)
+![Screenshot (1033)](https://github.com/user-attachments/assets/3650c932-f996-4f7c-868e-a99499c47339)
 

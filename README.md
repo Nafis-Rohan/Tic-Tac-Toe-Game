@@ -29,14 +29,10 @@ This project is a simple implementation of the classic Tic-Tac-Toe game in C++. 
 ## Example Gameplay
 Player 1 (X) - Player 2 (O)
 
-    |     |     
-  1 |  2  | 3
- ___|_____|_____
-    |     |     
-  4 |  5  | 6
- ___|_____|_____
-    |     |     
-  7 |  8  | 9
-    |     |     
+Copy code
+|     |     
+1 | 2 | 3 ||_____ | |
+4 | 5 | 6 ||_____ | |
+7 | 8 | 9 | |
 
 Player 1 enter the number: 5

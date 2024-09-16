@@ -28,6 +28,6 @@ This project is a simple implementation of the classic Tic-Tac-Toe game in C++. 
 
 
 ## Example Gameplay
-![Tic Tac Toe Example](https://example.com/tic-tac-toe-board.png)
+
 
 
